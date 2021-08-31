@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HealthyBaby</string>
+    <string name="loginimage">LoginImage</string>
+    <string name="login_text">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email...</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password...</string>
+    <string name="login">Login</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="mid_upper_arm_circumference"><![CDATA[Mid-upper arm circumference <21.5 cm]]></string>
+</resources>
